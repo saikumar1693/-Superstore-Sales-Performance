@@ -1,4 +1,4 @@
-# About my first project on GitHub -Superstore-Sales-Performance
+# Power Bi Project -Superstore-Sales-Performance
 Description:
 An interactive Power BI dashboard built to analyze Superstore retail data and uncover actionable business insights for strategic decision-making.
 
